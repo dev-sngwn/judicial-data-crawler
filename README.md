@@ -1,11 +1,11 @@
 # judicial-data-crawler
-[국가법령정보센터](http://www.law.go.kr/precSc.do?tabMenuId=tab67#licPrec206136)의 판례 데이터를 JSON 형태로 저장하는 크롤러입니다.
+* [국가법령정보센터](http://www.law.go.kr/precSc.do?tabMenuId=tab67#licPrec206136)의 판례 데이터를 JSON 형태로 저장하는 크롤러입니다.
 
 ## Installation
-* [ChromeDriver](http://chromedriver.chromium.org/downloads) (Chrome 버전에 맞게 다운로드 후, 소스에서 PATH 설정)
+> [ChromeDriver](http://chromedriver.chromium.org/downloads) (Chrome 버전에 맞게 다운로드 후, 소스에서 PATH 설정)
 
 ## Requirements
-* Selenium
+> Selenium
 
 ## Data Download
 * [judicial-data.json](https://www.dropbox.com/s/q9dhqype3rtn6kl/judicial-data.json?dl=0) (80,216 sets)
@@ -37,6 +37,6 @@ KEY | VALUE
 * 데이터의 형태가 일정하지 않기 때문에 원하는 데이터를 필터링해서 사용하셔야 합니다.
 * 50,000번째 데이터 부근에서 크롤러가 잠시 정지할 경우가 있습니다. 멈춘 Cell을 직접 클릭해주시면 재개됩니다.
 * 원인 불명의 Exception이 약 50회 발생합니다.
-* 2019. 05. 14. 현재 사이트 접속이 원활하지 않습니다.
+* 2019.05.14. 현재 사이트 접속이 원활하지 않습니다.
  
 ## License
