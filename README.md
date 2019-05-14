@@ -1,5 +1,5 @@
 # judicial-data-crawler
-* [국가법령정보센터](http://www.law.go.kr/precSc.do?tabMenuId=tab67#licPrec206136)의 판례 데이터를 JSON 형태로 저장하는 크롤러입니다.
+> [국가법령정보센터](http://www.law.go.kr/precSc.do?tabMenuId=tab67#licPrec206136)의 판례 데이터를 JSON 형태로 저장하는 크롤러입니다.
 
 ## Installation
 > [ChromeDriver](http://chromedriver.chromium.org/downloads) (Chrome 버전에 맞게 다운로드 후, 소스에서 PATH 설정)
