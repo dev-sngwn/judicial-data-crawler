@@ -7,7 +7,7 @@
 ## Requirements
 * Selenium
 
-## Download
+## Data Download
 * [judicial-data.json](https://www.dropbox.com/s/q9dhqype3rtn6kl/judicial-data.json?dl=0) (80,216 sets)
 
 ## Quick Peek
